@@ -17,7 +17,6 @@ _Analysis of credit card transactions and a study into the demographic utilising
 - <a href= "#research-questions-key-findings">Research questions and Key findings</a>
 - <a href= "#dashboard">Dashboard</a>
 - <a href= "#how-to-run-this-project">How to run this project</a>
-- <a href= "#final-recommendations">Final Recommendations</a>
 - <a href= "#author-contact">Author & Contact</a>
 
 ---
