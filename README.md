@@ -207,7 +207,7 @@ This table stores individual profile attributes, financial commitments, and soci
 
 1. **Open the Project:** Open the `dashboard/creditcard_dashboard.pbix` file in Power BI Desktop.
 2. **Update Data Source:**
-   * On the Home tab, click **Transform Data** ➡️ **Data source settings**.
+   * On the Home tab, click **Transform Data** --> **Data source settings**.
    * Select the MySQL connection and click **Change Source**.
 3. **Connect to Your Local Instance:**
    * **Server:** `127.0.0.1` (or `localhost`)
