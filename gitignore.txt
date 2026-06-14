@@ -1,0 +1,6 @@
+# Exclude Power BI user-specific configurations and caches
+*.user
+*.log
+*.tmp
+.extractor/
+*_Backup.pbix
