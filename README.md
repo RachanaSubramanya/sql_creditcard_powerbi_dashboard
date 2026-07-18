@@ -176,10 +176,12 @@ This table stores individual profile attributes, financial commitments, and soci
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
+- Executive summary:
+![Executive Summary](screenshots/executive_summary.png)
 - Credit card transaction details report:
-![Dashboard Preview](creditcard_transactions_report.png)
+![Dashboard Preview](screenshots/creditcard_transactions_report.png)
 - Customer details report:
-![Dashboard Preview](customer_report.png)
+![Dashboard Preview](screenshots/customer_report.png)
 
 ---
 
