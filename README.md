@@ -7,6 +7,7 @@ _Analysis of credit card transactions and a study into the demographic utilising
 
 ## Table of contents
 - <a href= "#overview">Overview</a>
+- <a href= "#dashboard">Dashboard</a>
 - <a href= "#business-problem">Business problem</a>
 - <a href= "#dataset">Dataset</a>
 - <a href= "#tools--technologies">Tools and Technologies</a>
@@ -15,7 +16,6 @@ _Analysis of credit card transactions and a study into the demographic utilising
 - <a href= "#data-cleaning-preparation">Data Cleaning and Preparation</a>
 - <a href= "#exploratory-data-analysis">Exploatory Data Analysis</a>
 - <a href= "#research-questions-key-findings">Research questions and Key findings</a>
-- <a href= "#dashboard">Dashboard</a>
 - <a href= "#how-to-run-this-project">How to run this project</a>
 - <a href= "#author-contact">Author & Contact</a>
 
@@ -28,6 +28,34 @@ A comprehensive end-to-end data analytics project utilizing **MySQL** for data i
 The dataset tracks over 10,000 credit card customers, monitoring attributes like transaction volumes, utilization ratios, delinquency statuses, and demographic profiles
 
 ---
+
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+<ul>
+  <li>
+    Executive summary:
+    <div style="margin-top: 15px; margin-bottom: 40px; text-align: center;">
+      <img src="screenshots/executive_summary.png" alt="Executive Summary" width="80%" style="border: 1px solid #d0d7de; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </div>
+  </li>
+  
+  <li>
+    Credit card transaction details report:
+    <div style="margin-top: 15px; margin-bottom: 40px; text-align: center;">
+      <img src="screenshots/creditcard_transactions_report.png" alt="Dashboard Preview" width="80%" style="border: 1px solid #d0d7de; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </div>
+  </li>
+
+  <li>
+    Customer details report:
+    <div style="margin-top: 15px; text-align: center;">
+      <img src="screenshots/customer_report.png" alt="Dashboard Preview" width="80%" style="border: 1px solid #d0d7de; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </div>
+  </li>
+</ul>
+
+
+--- 
 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
@@ -171,17 +199,6 @@ This table stores individual profile attributes, financial commitments, and soci
 * **Premium Customer Acquisition:** Businessmen and self-employed individuals dominate the Gold and Platinum tiers. Future premium card marketing should be exclusively tailored to this entrepreneurial profile.
 * **Social Credit Initiative:** A niche group of 18 low-income, senior cardholders (aged 60+) support 2+ financial dependents. Introducing a subsidized interest rate scheme for this specific micro-segment can improve retention and support corporate social responsibility (CSR) goals.
 
-
----
-
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
-
-- Executive summary:
-![Executive Summary](screenshots/executive_summary.png)
-- Credit card transaction details report:
-![Dashboard Preview](screenshots/creditcard_transactions_report.png)
-- Customer details report:
-![Dashboard Preview](screenshots/customer_report.png)
 
 ---
 
